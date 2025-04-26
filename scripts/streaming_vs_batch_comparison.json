@@ -1,0 +1,17 @@
+{
+    "timestamp": "2025-04-22 14:49:43",
+    "streaming": {
+        "total_records": 270,
+        "top_hashtag": "environment",
+        "window_count": 10
+    },
+    "batch": {
+        "total_records": 270,
+        "top_hashtag": "science",
+        "execution_time": 34.934810638427734
+    },
+    "comparison": {
+        "same_record_count": true,
+        "same_top_hashtag": false
+    }
+}
